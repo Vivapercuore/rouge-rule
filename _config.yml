@@ -19,7 +19,7 @@ collections_dir: collections
 collections:
   zhiye:
     output: true
-    permalink: /:collection/:name
+    permalink: /rouge-rule/:collection/:name
 
 
 theme_config:
